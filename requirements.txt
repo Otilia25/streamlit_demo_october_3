@@ -1,9 +1,9 @@
 fiona==1.10.1
-geemap==0.36.4
+geemap==0.32.1
 geopandas==1.1.1
 jupyter-server-proxy==4.4.0
 keplergl==0.3.7
-leafmap==0.52.4
+leafmap==0.27.0
 localtileserver==0.10.6
 nbserverproxy==0.8.8
 pyarrow==21.0.0
@@ -11,5 +11,3 @@ streamlit==1.50.0
 streamlit-option-menu==0.4.0
 streamlit-folium==0.25.3
 earthengine-api==0.1.395
-geemap==0.32.1
-leafmap==0.52.4
